@@ -6,3 +6,5 @@ https://mdbootstrap.com/docs/standard/
 
 Contact:
 office@mdbootstrap.com
+
+published at https://mdbgo.io/ashmccoy/mdb5-free-standard/
